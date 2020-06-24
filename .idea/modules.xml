@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/egor/5b736cef-ab9d-4ff3-b5f8-9d9bd51f1047/egor/egor/AnroidProjects/OfflineMessenger/Offline Messenger.iml" filepath="/media/egor/5b736cef-ab9d-4ff3-b5f8-9d9bd51f1047/egor/egor/AnroidProjects/OfflineMessenger/Offline Messenger.iml" group="Offline Messenger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OfflineMessenger.iml" filepath="$PROJECT_DIR$/.idea/OfflineMessenger.iml" />
+      <module fileurl="file:///media/egor/5b736cef-ab9d-4ff3-b5f8-9d9bd51f1047/egor/egor/AnroidProjects/OfflineMessenger/app/app.iml" filepath="/media/egor/5b736cef-ab9d-4ff3-b5f8-9d9bd51f1047/egor/egor/AnroidProjects/OfflineMessenger/app/app.iml" group="Offline Messenger/app" />
+    </modules>
+  </component>
+</project>

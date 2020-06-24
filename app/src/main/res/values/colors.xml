@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2089DD</color>
+    <color name="colorAccent">#3497E6</color>
+    <color name="buttonBackground"/>
+
+    <color name="chat_title_text">#03A9F4</color>
+    <color name="fab_text">#FFFFFF</color>
+
+    <color name="message_text">#FFFFFF</color>
+    <color name="message_author_text">#EBE8E8EC</color>
+
+    <color name="message_background2">#818181</color>
+
+    <color name="chat_item_background">#03A9F4</color>
+
+    <color name="action_button_tint">#0891CF</color>
+
+    <color name="text_input_layout_background">#EDE8DA</color>
+
+    <color name="appBackground">#2E2D2D</color>
+    <color name="chat_actions_container_background">#323232</color>
+
+    <color name="chat_list_item_background">#353535</color>
+    <color name="chat_list_item_text_color">#FFFF</color>
+    <color name="chat_list_divider_color">#EAEAEA</color>
+
+    <color name="add_image_button_tint">#0891CF</color>
+    <color name="progress_bar_tint">#FFF1F1</color>
+
+    <color name="chat_item_background_tint">#C2DFF6</color>
+
+    <color name="textColorDefault">#FFFF</color>
+
+</resources>

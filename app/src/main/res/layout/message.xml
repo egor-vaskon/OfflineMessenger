@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:paddingStart="15dp"
+    android:paddingEnd="20dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="15dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/message_container"
+        android:background="@drawable/message_background"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:paddingStart="13dp"
+        android:paddingEnd="15dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/message_author_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/message_author_text" />
+
+        <FrameLayout
+            android:layout_marginBottom="5dp"
+            android:layout_alignParentStart="true"
+            android:id="@+id/attached_to_message_file_container"
+            android:layout_below="@id/message_author_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:background="@drawable/attached_file_background"
+            android:backgroundTint="#6CAFE4">
+            <TextView
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:textSize="15sp"
+                android:visibility="invisible"
+                android:textColor="#FFFF"
+                android:id="@+id/attached_to_message_file"/>
+        </FrameLayout>
+
+        <TextView
+            android:layout_below="@id/attached_to_message_file_container"
+            android:id="@+id/message_text"
+            android:minWidth="100dp"
+            android:maxWidth="200dp"
+            android:textColor="@color/message_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:background="@drawable/image_rounded_background"
+            android:adjustViewBounds="true"
+            android:minWidth="100dp"
+            android:maxWidth="200dp"
+            android:maxHeight="500dp"
+            android:scaleType="fitXY"
+            android:layout_below="@id/message_text"
+            android:id="@+id/message_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+</RelativeLayout>

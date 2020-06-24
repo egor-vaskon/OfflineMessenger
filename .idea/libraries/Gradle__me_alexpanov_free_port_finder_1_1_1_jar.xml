@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: me.alexpanov:free-port-finder:1.1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.alexpanov/free-port-finder/1.1.1/2002a007afe630915e1807803c9edbd1a8676ff0/free-port-finder-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.alexpanov/free-port-finder/1.1.1/b4a2c8dd2fb7c9ee2cd4e8c979d8a15d3c533de1/free-port-finder-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.alexpanov/free-port-finder/1.1.1/7035b5f0093cb726e7d60f6c2bdd4d160848f74a/free-port-finder-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

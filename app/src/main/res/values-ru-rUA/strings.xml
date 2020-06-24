@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_message">Введите сообщение</string>
+    <string name="settings">Настройки</string>
+    <string name="rescan">Персканировать</string>
+    <string name="help">Помощь</string>
+    <string name="enter_username">Введите имя</string>
+    <string name="create_chat">Создать чат</string>
+    <string name="change_username">Изменить имя</string>
+    <string name="create_user">Создать пользователя</string>
+    <string name="cant_open_file">Невозможно открыть файл</string>
+    <string name="enable_wifi">Включите WI-FI и попробуйте еще раз</string>
+    <string name="disconnected">Соединение разорвано.</string>
+    <string name="connected">Создано соединение.</string>
+    <string name="cannot_send_message">Невозможно отправить сообщение.</string>
+</resources>
